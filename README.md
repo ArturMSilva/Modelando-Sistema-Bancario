@@ -1,4 +1,4 @@
-# Sistema Bancário Simples 🏦
+# Sistema Bancário 🏦
 
 Este é um sistema bancário simples implementado em Python, que permite a criação de clientes, contas bancárias, e realização de transações como depósitos e saques.
 
